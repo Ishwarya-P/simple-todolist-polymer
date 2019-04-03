@@ -1,0 +1,17 @@
+{
+  "name": "poly1-element",
+  "description": "",
+  "main": "poly1-element.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-input": "PolymerElements/paper-input#^3.0.1"
+  }
+}
